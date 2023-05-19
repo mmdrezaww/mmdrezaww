@@ -69,13 +69,13 @@
 <br/>  
 
 
-## Github Stats  
+<!-- ## Github Stats   -->
   
 
 <br/>  
 
 
-## Recent Blog Posts  
+<!-- ## Recent Blog Posts   -->
   
 
 <br/>  
