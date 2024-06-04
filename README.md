@@ -9,7 +9,7 @@
 - **🔭 I’m currently working on poroject & Backend skill**  
   
 - 🔫 I’m currently working on <a href="https://https://github.com/mmdrezaww" rel="nofollow">Github Profile</a>
-- 🌱 I’m currently learning Laravel
+- 🌱 I’m currently Working on Laravel project
 - 🌱 I’m currently learning Php language 
   
 
