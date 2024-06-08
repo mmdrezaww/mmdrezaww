@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://wallpaperaccess.com/full/1338362.png" align="center" style="width: 100%" />
+<img src="https://wallpaperaccess.com/full/1278165.jpg" align="center" style="width: 100%" />
  
 
 </div>  
@@ -81,7 +81,6 @@
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=312ixivs4zw7htgagnfc2qqbsqj4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
 
 <br/>  
 
