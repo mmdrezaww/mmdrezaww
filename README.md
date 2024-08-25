@@ -21,6 +21,7 @@
 <a href="https://instagram.com/mmd._.rezaw" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=FD1D1D alt=instagram style="margin-bottom: 5px;" />
 </a>
+ <a class="Link--primary" href="mailto:gmohammadreza867@gmail.com">gmohammadreza867@gmail.com</a>
 </div>  
  
 <br/>  
